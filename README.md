@@ -3,6 +3,10 @@
 This is a simple Computercraft, Minecraft OS.
 Created in the in-game computer using Lua!
 
+![menu](https://cdn.discordapp.com/attachments/534033183008620569/1114047583640375427/image.png)
+![upload](https://cdn.discordapp.com/attachments/534033183008620569/1114049223579676702/image.png)
+![download](https://cdn.discordapp.com/attachments/534033183008620569/1114049174724431892/image.png)
+
 
 ## Installing
 
